@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"c:\\\\Users\\\\w.i\\\\Desktop\\\\flutter\\\\melos_app\" log --oneline -10)",
+      "Bash(git -C \"c:\\\\Users\\\\w.i\\\\Desktop\\\\flutter\\\\melos_app\" status)"
+    ]
+  }
+}
