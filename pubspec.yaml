@@ -1,0 +1,13 @@
+name: melos_app
+publish_to: none
+environment:
+  sdk: ^3.9.2
+
+workspace:
+  - packages/demo_1
+  - packages/demo_2
+
+dev_dependencies:
+  melos: ^7.4.0
+   
+
